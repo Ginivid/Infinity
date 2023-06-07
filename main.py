@@ -1,5 +1,5 @@
-name = input('Digite o seu nome:\n')
-city = input('Digite a sua cidade:\n')
-gender = input('Digite o sexo:\n')
+name = input('Informe o seu nome:\n')
+city = input('Informe a sua cidade:\n')
+gender = input('Informe o sexo:\n')
 
-print(f'Seus dados são:\n{name}\n{city}\n{gender}')
+print(f'Seguem os dados:\n{name}\n{city}\n{gender}')
